@@ -1,0 +1,13 @@
+{
+  "name": "beautiful-soup",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "bot.js",
+  "repository": "git@github.com:renesansz/discord-greeter-bot.git",
+  "author": "Dylan",
+  "license": "Flavortown",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.4"
+  }
+}
