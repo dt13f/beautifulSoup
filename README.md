@@ -1,4 +1,4 @@
 # beautifulSoup
 Discord Bot
-
-DYLAN THOMAS
+|------------|------------|
+|DYLAN THOMAS|------------|
